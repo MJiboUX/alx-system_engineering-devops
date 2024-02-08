@@ -4,6 +4,6 @@
 count=0
 until [ $count -eq 10 ]
 do
-    echo "Holberton School"
+    echo "Holberto School"
     ((count++))
 done
